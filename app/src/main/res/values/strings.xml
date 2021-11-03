@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">PS_3</string>
+    <string name="app_name">TODO</string>
+    <string name="task_name_label">Nazwa</string>
+    <string name="task_name_hint">Wprowadź nazwę zadania</string>
+    <string name="task_done_label">Wykonane</string>
+    <string name="task_details_label">Szczegóły</string>
 </resources>
