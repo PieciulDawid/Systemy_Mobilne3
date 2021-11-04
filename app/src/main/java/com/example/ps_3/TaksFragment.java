@@ -14,7 +14,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-public class taksFragment extends Fragment {
+public class TaksFragment extends Fragment {
 
     private EditText nameField;
     private Button dateButton;
@@ -24,6 +24,7 @@ public class taksFragment extends Fragment {
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
     }
 
     @Nullable
